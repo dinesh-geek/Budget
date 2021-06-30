@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+
+    <string name="login_sign_up">Login/Sign up</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+    <string name="not_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <string name="add_expense">Add Expense</string>
+    <string name="manage_budget">Manage Budget</string>
+    <string name="currency_conversion">Currency Conversion</string>
+    <string name="enter_expense">Enter Expense</string>
+    <string name="choose_expense_type">Choose Expense Type</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="month_expenses">Month Expenses</string>
+    <string name="current_month">Current Month</string>
+    <string name="previous_month">Previous Month</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="enter_this_month_budget">Enter this month Budget</string>
+    <string name="enter_budget">Enter Budget</string>
+    <string name="done">Done</string>
+    <string name="change_budget">Change Budget</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="base_currency">Base Currency</string>
+    <string name="currency_result">Currency Result</string>
+    <string name="choose_currency">Choose Currency</string>
+    <string name="logout">Logout</string>
+</resources>

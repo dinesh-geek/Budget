@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/addExpense"
+        android:icon="@drawable/ic_add"
+        android:title="@string/add_expense"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/manageBudget"
+        android:icon="@drawable/ic_pie_chart"
+        android:title="@string/manage_budget"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/currencyConversion"
+        android:icon="@drawable/ic_dollar"
+        android:title="@string/currency_conversion"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+
+</menu>
